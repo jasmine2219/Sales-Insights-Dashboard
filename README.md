@@ -1,4 +1,5 @@
 # Sales Insights Dashboard
+<img width="1311" height="742" alt="image" src="https://github.com/user-attachments/assets/964d0477-bf29-420c-b245-2315f4810206" />
 
 ## Project Overview
 
